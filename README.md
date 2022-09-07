@@ -1,2 +1,2 @@
 # json-benchmark
-How fast different languages perform the old bread and butter?
+How fast can different languages perform the old bread and butter?
